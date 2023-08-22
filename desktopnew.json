@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "id": "64bb01b289fb5a0701edc405",
+            "image": "https://randomuser.me/api/portraits/women/58.jpg",
+            "likes": 55,
+            "tags": [
+                "love"
+                "God"
+                "Work"
+            ],
+            "text": "Test Title",
+            "publishDate": "2023-07-21T22:07:46.420Z",
+            "updatedDate": "2023-07-21T22:07:46.420Z",
+            "owner": {
+                "id": "64bab77089fb5a4886ed9959",
+                "firstName": "DmitryTEST",
+                "lastName": "QA"
+            }
+        },
+        {
+            "id": "64bb018889fb5a9419edc3ff",
+            "image": "https://randomuser.me/api/portraits/women/58.jpg",
+            "likes": 55,
+            "tags": [],
+            "text": "Test Title",
+            "publishDate": "2023-07-21T22:07:04.718Z",
+            "updatedDate": "2023-07-21T22:07:04.718Z",
+            "owner": {
+                "id": "64bab77089fb5a4886ed9959",
+                "firstName": "DmitryTEST",
+                "lastName": "QA"
+            }
+        },
+        {
+            "id": "64baf8d889fb5a773dedbf0c",
+            "image": "https://randomuser.me/api/portraits/women/58.jpg",
+            "likes": 55,
+            "tags": [
+                "AQA"
+            ],
+            "text": "Test Title",
+            "publishDate": "2023-07-21T21:30:00.712Z",
+            "updatedDate": "2023-07-21T21:30:00.712Z",
+            "owner": {
+                "id": "64bab77089fb5a4886ed9959",
+                "firstName": "DmitryTEST",
+                "lastName": "QA"
+            }
+        }
+    ],
+    "total": 3,
+    "page": 0,
+    "limit": 20
+}
